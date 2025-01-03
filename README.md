@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm currently a student  at Conestoga College<br>🖥️I'm looking to get an Internship in MAY 2025<br>🖥️I'm currently on my journey to the MERN stack.<br>🔭Ask me about anything related to productivity<br>⚆ I care so much about the little details
+🎓I'm currently a student  at Conestoga College<br>🖥️I'm currently on my journey to the MERN stack.<br>🔭Ask me about anything related to productivity<br>⚆ I care so much about the little details
 
 
 ## 🌐 Socials:
