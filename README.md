@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓I'm currently a student  at Conestoga College<br>🖥️I'm currently on my journey to the MERN stack.<br>🔭Ask me about anything related to productivity<br>⚆ I care so much about the little details
+🖥️ Full-stack software engineer passionate about building clean, scalable, and reliable systems<br> for Social Impact
+🚚 Currently working on real-world production tools at SSP Group of Companies (cross-border logistics)<br>
+🧠 Deep interest in system design, backend architecture, and well-structured applications<br>
+⚆ Detail-oriented by nature — I value clarity, maintainability, and code that stands the test of time
 
 
 ## 🌐 Socials:
